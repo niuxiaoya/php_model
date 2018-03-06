@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    {load file='_JS_/test.js'}
+    {load file='_CSS_/test.css'}
+</head>
+<body>
+111111111
+</body>
+</html>
